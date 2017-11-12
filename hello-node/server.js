@@ -11,6 +11,3 @@ var server = http.createServer(requestHandler);
 server.listen(port, function(){
      console.log("Listening on port " + port);
 });
-
-
-//test
